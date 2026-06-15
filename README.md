@@ -67,4 +67,4 @@ CREATE TABLE contacts (
 ```
 
 ## 👩‍💻 Author
-Roshani — [GitHub](https://github.com/Rosh0005) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+Roshani — [GitHub](https://github.com/Rosh0005) | [LinkedIn](https://www.linkedin.com/in/roshani-jha-19767236a/)
