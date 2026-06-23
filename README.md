@@ -1,6 +1,6 @@
-# Personal Portfolio Website — FUTURE_FS_01
+# Personal Portfolio Website 
 
-A full-stack personal portfolio website built as Task 1 of my Full Stack Web Development Internship at Future Interns.
+A full-stack personal portfolio website.
 
 ## 📸 Preview
 
